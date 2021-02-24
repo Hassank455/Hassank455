@@ -22,7 +22,7 @@ Hi! I'm Mobile application developer, excellent analytical and design capabiliti
 
 [<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][reactplaylist]
 
-[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmltutorial]
+[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][htmltutorial]
 
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -41,18 +41,6 @@ Hi! I'm Mobile application developer, excellent analytical and design capabiliti
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Hassank455.Hassank455)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 #### Github Stats
@@ -64,5 +52,5 @@ Hi! I'm Mobile application developer, excellent analytical and design capabiliti
 
 [reactplaylist]: https://dart.dev/
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
+[htmltutorial]: https://kotlinlang.org/
 
