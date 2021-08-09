@@ -53,14 +53,14 @@ I'm Mobile application developer, excellent analytical and design capabilities w
 #### Github Stats
 
 <a href="https://github.com/Hassank455/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.Hassank455.vercel.app/api?username=Hassank455&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassank455&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 
 ![Hassank455's github stats](https://github-readme-stats.vercel.app/api?username=Hassank455&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 <a href="https://github.com/Hassank455/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.Hassank455.vercel.app/api/top-langs/?username=Hassank455&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassank455&layout=compact&theme=material-palenight" />
 </a>
 
 </details>
@@ -69,6 +69,7 @@ I'm Mobile application developer, excellent analytical and design capabilities w
 [reactplaylist]: https://dart.dev/
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
 [htmltutorial]: https://kotlinlang.org/
+
 
 🔭 I’m currently working at [upwork](https://www.upwork.com/freelancers/~01919b300aed527144)
 
