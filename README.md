@@ -58,6 +58,11 @@ I'm Mobile application developer, excellent analytical and design capabilities w
 
 ![Hassank455's github stats](https://github-readme-stats.vercel.app/api?username=Hassank455&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+<a href="https://github.com/Hassank455/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.Hassank455.vercel.app/api/top-langs/?username=Hassank455&layout=compact&theme=material-palenight" />
+</a>
+
 </details>
 
 
