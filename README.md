@@ -54,7 +54,7 @@ I'm Mobile application developer, excellent analytical and design capabilities w
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
 [htmltutorial]: https://kotlinlang.org/
 
-🔭 I’m currently working at https://www.upwork.com/freelancers/~01919b300aed527144
+🔭 I’m currently working at [upwork](https://www.upwork.com/freelancers/~01919b300aed527144)
 
 
 
