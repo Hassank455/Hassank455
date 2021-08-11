@@ -1,10 +1,15 @@
 ## Hi I'm Hassan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+
+
+<p align="center"> 
+  <img align="center" alt="GIF" src="code.gif" width="600" height="340" />
+</p>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Hassank455/count.svg" />
+  <img src="https://profile-counter.glitch.me/Hassank455/count.svg"  />
 </p>
 
 I'm Mobile application developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects and products. I'm specializing in the development of Android and Ios applications and working on many applications, from simple single-screen applications to large applications.
