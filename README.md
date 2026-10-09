@@ -1,82 +1,134 @@
-## Hi I'm Hassan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<h1 align="center">Hi, I'm Hassan Kamal 👋</h1>
+<h3 align="center">Full-Stack Developer · Flutter · Next.js · Node.js · NestJS</h3>
 
-
-
-
-<p align="center"> 
-  <img align="center" alt="GIF" src="code.gif" width="600" height="340" />
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/hassankamal4"><img src="https://img.shields.io/badge/Upwork-Hire%20me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hassankamal4/"><img src="https://img.shields.io/badge/LinkedIn-hassankamal4-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mostaql.com/u/Hassan_Kamal4"><img src="https://img.shields.io/badge/Mostaql-Hassan_Kamal4-2386C8?style=for-the-badge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Hassank455&style=for-the-badge&color=blueviolet&label=Profile+views" />
 </p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Hassank455/count.svg"  />
+<p align="center">
+  <img alt="coding" src="code.gif" width="520" />
 </p>
 
-I'm Mobile application developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects and products. I'm specializing in the development of Android and Ios applications and working on many applications, from simple single-screen applications to large applications.
+I build **production-ready mobile, web, and backend applications** with a focus on clean architecture, scalability, performance, and maintainable code.
 
-:mailbox: Reach me out!
+My work covers the full flow of a product — from UI and API integration to databases, caching, authentication, background processing, and deployment. I care about more than making a feature "work": I aim for software that is clean, reliable, and ready to evolve as the product grows.
 
-[![Mail Badge](https://img.shields.io/badge/-@k.almosaudder-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/k.almosaudder/)
+- 📱 **5+ years** building Flutter apps, published to the App Store & Google Play
+- ⚙️ Now building **scalable backends** with Node.js, NestJS, PostgreSQL, Redis & RabbitMQ
+- 🏗️ Currently deep-diving into **system design**, distributed-systems patterns, and reliability
+- 🎓 B.Sc. in Information Technology (Mobile Computing) — Islamic University of Gaza
+- 💼 Open to freelance projects and full-time opportunities
+- ⚡ Fun fact: I play games and go to the gym very often
 
-<!-- TODO: Add last video link -->
+---
 
-- 🔭 I’m currently working at Home
-- 🤔 I'm looking for help with Outstanding projects ideas.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+### 🛠️ Tech Stack
 
-#### Top Technologies
+**Mobile**
 
-<!-- TODO: Make technologies links takes you to repositories -->
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-[![Dart Badge](https://img.shields.io/badge/-Dart-61DBFB?style=for-the-badge&labelColor=black&logo=dart&logoColor=61DBFB)](#) [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-F0DB4F?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=F0DB4F)](#) [![Java Badge](https://img.shields.io/badge/-Java-007acc?style=for-the-badge&labelColor=black&logo=java&logoColor=007acc)](#) [![PHP Badge](https://img.shields.io/badge/-PHP-3C873A?style=for-the-badge&labelColor=black&logo=PHP&logoColor=3C873A)](#) 
+**Backend**
 
-### Tutorials
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][reactplaylist]
+**Web**
 
-[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][htmltutorial]
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+**Data & DevOps**
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+---
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+### 🧩 What I Work With
 
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<br />
-<br /><br />
+**📱 Mobile**
+- Clean Architecture & SOLID
+- BLoC / Cubit state management
+- REST APIs, WebSockets & real-time
+- Firebase, push notifications, deep links
+- Maps, geolocation, in-app purchases & payments
+- Offline support, caching, background tasks
+- Unit, widget & integration testing
+- Build flavors, CI/CD, store deployment
 
+</td>
+<td valign="top" width="50%">
 
+**⚙️ Backend & Architecture**
+- REST API design, auth & RBAC
+- Database design, indexing & query optimization
+- Redis caching & distributed locks
+- Idempotency & concurrency handling
+- RabbitMQ & event-driven communication
+- Retry, timeout & circuit-breaker strategies
+- Modular monolith & scalable architecture
+- Docker, logging & observability
 
-#### Profile Visits 
+</td>
+</tr>
+</table>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Hassank455.Hassank455)
+---
 
+### 🚀 Featured Projects
 
+| Project | Description | Stack |
+|---|---|---|
+| [**Multi-Vendor Food Delivery Platform**](https://github.com/Hassank455/Multi-Vendor-Food-Delivery-Platform-Code) | Scalable multi-vendor backend (Foodlify) — restaurants, orders & payment management | NestJS · TypeScript · PostgreSQL |
+| [**Scatter-Gather Resilience Lab**](https://github.com/Hassank455/scatter-gather-resilience-lab) | Hotel search querying providers in parallel with partial results — Adapter, Timeout, Retry, Circuit Breaker, Bulkhead | NestJS · TypeScript |
+| [**RabbitMQ NestJS Lab**](https://github.com/Hassank455/rabbitmq-nestjs-lab) | Hands-on lab on queues, exchanges, acknowledgements & reliable messaging | NestJS · RabbitMQ |
+| [**Travel Booking System Analysis**](https://github.com/Hassank455/travel-booking-app) | Architecture decisions, workflows, DB design, search orchestration & caching | System Design |
+| [**System Design Playbook**](https://github.com/Hassank455/system-design-playbook) | Notes, architecture patterns, diagrams & scalability exercises | System Design |
+| [**MySQL Performance Tuning**](https://github.com/Hassank455/mysql-performance-tuning) | Query execution & optimizer experiments on large datasets | MySQL |
+| [**Vibe In**](https://github.com/Hassank455/vibe_in) | Open-source Flutter app | Flutter · Dart |
 
-#### Github Stats
+---
 
+### 💼 Experience
 
+- **Mobile Developer** — Rooh For Information Technology *(Nov 2025 – Sep 2026)*
+- **Mobile Developer** — TAQAT *(Sep 2024 – Sep 2025)*
+- **Mobile Developer** — MMB Technology *(Jun 2023 – Aug 2024)*
+- **Freelancer** — Upwork & Mostaql · ⭐ 5.0 rating on Upwork
 
-![Hassank455's github stats](https://github-readme-stats.vercel.app/api?username=Hassank455&count_private=true&theme=tokyonight&hide=contribs,prs)
+---
 
-<a href="https://github.com/Hassank455/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassank455&layout=compact&theme=material-palenight" />
-</a>
+### 📊 GitHub Stats
 
-</details>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hassank455&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassank455&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 
-[reactplaylist]: https://dart.dev/
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://kotlinlang.org/
-
-<br /><br />
-🔭 I’m currently working at [upwork](https://www.upwork.com/freelancers/~01919b300aed527144)
-<br /><br />
-🔭 I’m currently working at [mostaql](https://mostaql.com/u/Hassan_Kamal4)
-
-
-
+<p align="center">
+  📫 Need a Flutter app, a Next.js web app, or a Node.js/NestJS backend? <a href="https://www.upwork.com/freelancers/hassankamal4">Let's talk.</a>
+</p>
